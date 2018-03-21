@@ -53,7 +53,10 @@ div {
   align-items: center;
   flex-wrap: wrap;
   top: 69px;
+}
 
+.second {
+  width: 1000px;
 }
 
 .maincontent {
@@ -68,4 +71,21 @@ div {
   background-color: black;
   width: 1200px;
   margin: auto;
+}
+
+.featuredtea {
+  padding: 5px;
+}
+
+div.featuredtea img {
+  width: 300px;
+  height: 200px;
+}
+
+h4 {
+  padding-top: 10px;
+}
+
+.featuredtea span {
+  padding: 5px;
 }
